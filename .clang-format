@@ -1,0 +1,10 @@
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+PointerAlignment: Left
+AllowAllParametersOfDeclarationOnNextLine: false
+BinPackParameters: false
+BinPackArguments: false
+ColumnLimit: 80
+SpaceBeforeParens: ControlStatements
+AllowShortIfStatementsOnASingleLine: true
