@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -g
+CFLAGS = -Wall -Wextra
 RM = rm -f
 
 TARGETS = pcron
